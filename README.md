@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer Khan</h1>
 <h3 align="center">Senior Fullstack Web & Mobile App Developer in Pakistan</h3>
 
-- 🔭 I’m currently working at [IHorizons](https://www.ihorizons.com/)
+- 🔭 I’m currently working at [CodingKey](https://www.codingkey.com/)
 
 - 🌱 I’m currently learning **React JS, Angular, Redux**
 
